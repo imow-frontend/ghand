@@ -14,7 +14,7 @@
     "typescript": "^3.8.2"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql": "^14.6.0",
     "mongodb": "^3.5.4",
     "tapable": "^1.1.3"
